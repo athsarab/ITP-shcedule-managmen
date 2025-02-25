@@ -6,7 +6,7 @@
     "start": "concurrently \"cd backend && nodemon server\" \"cd frontend && npm run dev\""
   },
   "keywords": [],
-  "author": "",
+  "author": "", 
   "license": "ISC",
   "dependencies": {
     "concurrently": "^8.2.0",
