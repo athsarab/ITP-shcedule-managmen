@@ -5,7 +5,7 @@
   "scripts": {
     "start": "concurrently \"cd backend && nodemon server\" \"cd frontend && npm run dev\""
   },
-  "keywords": [],
+  "keywords": [], 
   "author": "", 
   "license": "ISC",
   "dependencies": {
